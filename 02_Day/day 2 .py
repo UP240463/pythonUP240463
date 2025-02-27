@@ -1,5 +1,4 @@
-# variables
-# day 2
+# ejercicio 1
 
 # declaracion de varibles
 
@@ -40,5 +39,3 @@ print('Last name: ', last_name)
 print('Country: ', country)
 print('Age: ', age)
 print('Married: ', is_married)
-
-#jose francisco mendez dueñas

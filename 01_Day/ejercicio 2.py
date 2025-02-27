@@ -1,15 +1,4 @@
-# Introduction
-# Day 1 
-
-# operacion con tipos de datos eh imprimir
-
-print(3 + 2)   # addition(+)
-print(3 - 2)   # subtraction(-)
-print(3 * 2)   # multiplication(*)
-print(3 / 2)   # division(/)
-print(3 ** 2)  # exponential(**)
-print(3 % 2)   # modulus(%)
-print(3 // 2)  # Floor division operator(//)
+# ejercicio 2
 
 # identifica tipos de datos eh imprimir
 
@@ -23,5 +12,3 @@ print(type({9.8, 3.14, 2.7}))    # Set
 print(type((9.8, 3.14, 2.7)))    # Tuple
 print(type(3 == 3))              # Bool
 print(type(3 >= 3))              # Bool
-
-# jose francisco mendez dueñas

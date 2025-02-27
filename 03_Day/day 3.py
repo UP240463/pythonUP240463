@@ -1,8 +1,9 @@
+# ejercicio 1
+
 # operadores 
-# day 3
 
 age = int(18) 
-height = 1.73
+height = 1.82
 comp = 7j
 print(age)
 print(height)
@@ -66,4 +67,3 @@ print('youve lived for: ', seconds)
 for i in range(1,6):
     print(f'{i} {i**0} {i**2} {i**3}')
     
-# jose francisco mendez dueñas 
