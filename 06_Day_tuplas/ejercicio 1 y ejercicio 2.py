@@ -1,4 +1,3 @@
-
 # dia 6
 
 print(" DAY 6 in python")

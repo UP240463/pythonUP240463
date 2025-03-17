@@ -1,3 +1,5 @@
+# dia 5
+
 # 1. Declarar una lista vacía
 lista_vacia = []
 

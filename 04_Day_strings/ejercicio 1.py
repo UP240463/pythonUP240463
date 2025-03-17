@@ -1,3 +1,5 @@
+#  dia 4
+
 # 1. Concatenar las cadenas 'Thirty', 'Days', 'Of', 'Python' en una sola cadena
 cadena_concatenada = 'Thirty ' + 'Days ' + 'Of ' + 'Python'
 print("Cadena concatenada:", cadena_concatenada)

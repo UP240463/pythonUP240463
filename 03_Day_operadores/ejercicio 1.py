@@ -1,4 +1,4 @@
-# ejercicio 1
+# dia 3
 
 # operadores 
 

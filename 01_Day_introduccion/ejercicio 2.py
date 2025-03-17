@@ -1,4 +1,4 @@
-# ejercicio 2
+# dia 1
 
 # identifica tipos de datos eh imprimir
 

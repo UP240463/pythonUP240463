@@ -1,4 +1,4 @@
-# ejercicios  1
+# dia 1
 
 # operacion con tipos de datos eh imprimir
 

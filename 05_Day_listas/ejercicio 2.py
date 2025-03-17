@@ -1,3 +1,5 @@
+# dia 5
+
 # Lista de edades de 10 estudiantes
 edades = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]
 
